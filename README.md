@@ -1,1 +1,1 @@
-Dummy Project Readme file testing merge conflict
+Dummy Project Readme file
